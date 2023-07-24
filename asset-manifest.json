@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_StudyNotion/static/css/main.67c5e3ef.css",
+    "main.js": "/React_StudyNotion/static/js/main.66d79d23.js",
+    "static/media/signup.png": "/React_StudyNotion/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/React_StudyNotion/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/React_StudyNotion/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/React_StudyNotion/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/React_StudyNotion/index.html",
+    "main.67c5e3ef.css.map": "/React_StudyNotion/static/css/main.67c5e3ef.css.map",
+    "main.66d79d23.js.map": "/React_StudyNotion/static/js/main.66d79d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c5e3ef.css",
+    "static/js/main.66d79d23.js"
+  ]
+}
